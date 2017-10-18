@@ -1,11 +1,14 @@
-# SoftwareLabNotebook 
+# Software Development LabNotebook
 
 Notes from the software engineering laboratory
+
+## Who is this for?
+Mostly me - I'm a very forgetful person. And anyone else that is curious to my daily process.
 
 ## What is this LabNotebook for?
 
 Generally when working my way through software projects I ask a lot of questions and find a lot of answers.
-Over the years - these answers can get lost requiring me to go back to original questions to find the
+Over the years these answers can get lost requiring me to go back to original questions to find the
 same answers again. This lab notebook is here to help prevent that.
 
 It is also important throughout the day to note down ideas about architecture, concepts, and designs of systems
@@ -23,7 +26,7 @@ to date.
 * Label each entry and record this in a table of contents.
 * Do not erase. Draw lines through deleted entries.
 * Avoid backfilling. If you realize later that you left something out, or just want to summarize something,
-go ahead and writ it in, noting that it's after-the-face.
+go ahead and write it in, noting that it's after-the-fact.
 * Include everything you contribute to ... the good, bad, and ugly.
 
 [Reference for LabNotebook](http://www.webpages.uidaho.edu/mindworks/Capstone%20Design/Project%20Guides/Logbook_Handout.pdf)
