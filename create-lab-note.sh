@@ -14,7 +14,7 @@ labNote="${currentMonthName}-`date +%m-%d-%Y`.md"
 if test -d ${labNoteBook}; then 
   printf "Notebook ${currentNoteBook} exists \n";
 else
-  prinft "Creating directory ${labNoteBook} \n"
+  printf "Creating directory ${labNoteBook} \n"
   mkdir $labNoteBook
 fi 
 
