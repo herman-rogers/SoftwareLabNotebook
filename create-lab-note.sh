@@ -7,7 +7,7 @@ printf "${actionColor}Generating a new note for you... $colorEnd \n\n"
 
 months=(Rocktober January February March April May June July August September October November December)
 currentMonthName=${months[`date +%m`]}
-currentNoteBook=${currentMonthName}`date +%Y`
+currentNoteBook=`date +%Y`${currentMonthName}
 labNoteBook=notebook/${currentNoteBook}
 labNote="${currentMonthName}-`date +%m-%d-%Y`.md"
 
