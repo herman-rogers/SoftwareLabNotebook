@@ -5,8 +5,7 @@ colorEnd='\e[0m'
 printf "$statementColor \nWelcome to SoftwareLab Notebook $colorEnd \n\n"
 printf "${actionColor}Generating a new note for you... $colorEnd \n\n"
 
-months=(Rocktober January February March April May June July August September October November December)
-currentMonthName=${months[`date +%m`]}
+currentMonthName=`date +%B`
 currentNoteBook=`date +%Y`${currentMonthName}
 labNoteBook=notebook/${currentNoteBook}
 labNote="${currentMonthName}-`date +%m-%d-%Y`.md"
