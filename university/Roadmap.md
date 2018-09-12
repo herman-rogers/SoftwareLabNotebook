@@ -17,3 +17,16 @@ This is my first introductory course to get familiar with mathematics in compute
 [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)
 
 - Admittedly this is just for funsies - I'm also making my way through the book by the same name.
+
+### No Bullshit Guide to Math and Physics
+
+Refresher course from algebra, calculus, and physics. Mostly used as a brushing up on mathematics.
+
+## Potential Classes (will be added to main roadmap if actively working on)
+
+[Intense intro to Cryptography](https://intensecrypto.org/public/)
+[Intro to Calc w/Derivatives](http://adit.io/posts/2018-02-18-Introduction-To-Calculus-With-Derivatives.html)
+[Differential Equations in Action](https://eu.udacity.com/course/differential-equations-in-action--cs222)
+[Grokking Algorithms](https://www.amazon.com/gp/product/1617292230/ref=as_li_tl?ie=UTF8&tag=adit074-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1617292230&linkId=8e53f7c690634522f34ef6aca879bc34)
+
+
