@@ -23,7 +23,7 @@ else
   printf "Creating new labnote \n"
   touch ${labNoteBook}/$labNote
   printf "Adding format to labnote \n"
-  printf "# ${currentMonthName} `date +%d,%Y`\n\n\n## Ideas:\n\n## Review:\n\n## Notes:\n\n### Personal\n\n### Work\n\n" > ${labNoteBook}/$labNote
+  printf "# ${currentMonthName} `date +%d, %Y`\n\n\n## Lab Notes:\n\n" > ${labNoteBook}/$labNote
   printf "Labnote $labNote created in $labNoteBook"
 fi
 
